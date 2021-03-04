@@ -1,4 +1,4 @@
-[!img](https://raw.githubusercontent.com/amerfirdaus/amerfirdaus/main/img/hello.jpg)
+<img align=center src=https://raw.githubusercontent.com/amerfirdaus/amerfirdaus/main/img/hello.jpg>
 
 <!--
 **amerfirdaus/amerfirdaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
